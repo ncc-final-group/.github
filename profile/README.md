@@ -43,3 +43,6 @@
 
 ## 스크린샷
 스샷 올리기
+
+## 프레젠테이션
+https://www.canva.com/design/DAGqfe_g23o/tIHAvQZvX9NgaAAjjvIP7w/view?utm_content=DAGqfe_g23o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h12975631b5#12
