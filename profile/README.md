@@ -84,7 +84,7 @@
 [![Figma](https://shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/Fmo8udL7e3psGoD54HY5wP/Untitled?node-id=0-1&p=f)
 ![Postman](https://shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🛠️ 프로젝트 아키텍처
+## 🛠️ 프로젝트 아키텍처 및 CI / CD
 |요청 -> 클러스터|
 |:---:|
 |<img src="../images/7.png" width="700" />|
@@ -96,3 +96,7 @@
 |jenkins 네임스페이스 -> 내부 서비스|
 |:---:|
 |<img src="../images/9.png" width="700" />|
+
+|Jenkins Multibranch Pipeline|
+|:---:|
+|<img src="../images/10.png" width="700" />|
