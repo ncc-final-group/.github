@@ -1,6 +1,6 @@
 # 네이버 비트캠프 17기 파이널 프로젝트 | [1조] Postsmith
 <p align="center" title="Postsmith-logo">
-  <img src="https://raw.githubusercontent.com/ncc-final-group/.github/refs/heads/main/images/main.gif" width="256" />
+  <img src="../icons/postsmith2-m.png" width="256" />
 </p>
 
 ## 📖 프로젝트 소개
