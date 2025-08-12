@@ -110,7 +110,7 @@
 |이름|역할|
 |:---:|:---|
 |[백성현](https://github.com/Seonghyeon8983)|팀장, 블로그 관리 페이지 대시보드, 블로그 UI/UX 설계, 프로젝트 일정관리|
-|[김준호](https://github.com/zpzlzmz)|홈페이지, 블로그 카테고리 관리, 메뉴 관리|
+|[김준호](https://github.com/zpzlzmz)|홈페이지, 블로그 카테고리 관리, 블로그 메뉴(사이드바 or 네이게이션) 관리|
 |[장진욱](https://github.com/chauid)|로그인/회원가입, 인증 서버 개발, DB 설계 및 관리, 소스 코드 관리, 프로젝트 아키텍처 설계, CI/CD|
 |[최원웅](https://github.com/ChoiWonOong)|글 작성 및 페이지 공지 작성, 블로그 통계 페이지, 블로그 테마 관리 및 편집|
 |[최준혁](https://github.com/groom2hub)|테마 목록 페이지, 피드 목록 페이지, 개인 블로그 관리 페이지|
